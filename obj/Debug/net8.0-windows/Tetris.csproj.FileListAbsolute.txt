@@ -1,0 +1,37 @@
+C:\VS\C# Sorteringsalgoritmer\Tetris\obj\Debug\net8.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\VS\C# Sorteringsalgoritmer\Tetris\obj\Debug\net8.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\C# Sorteringsalgoritmer\Tetris\obj\Debug\net8.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\VS\C# Sorteringsalgoritmer\Tetris\obj\Debug\net8.0-windows\Tetris.AssemblyInfo.cs
+C:\VS\C# Sorteringsalgoritmer\Tetris\obj\Debug\net8.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\VS\C# Sorteringsalgoritmer\Tetris\obj\Debug\net8.0-windows\Tetris.sourcelink.json
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Tetris.exe
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Tetris.deps.json
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Tetris.runtimeconfig.json
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Tetris.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Tetris.pdb
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\MonoGame.Framework.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.Direct2D1.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.Direct3D11.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.Direct3D9.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.DXGI.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.Mathematics.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.MediaFoundation.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.XAudio2.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\SharpDX.XInput.dll
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.csproj.AssemblyReference.cache
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.GeneratedMSBuildEditorConfig.editorconfig
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.AssemblyInfoInputs.cache
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.AssemblyInfo.cs
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.csproj.CoreCompileInputs.cache
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.sourcelink.json
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.csproj.Up2Date
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.dll
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\refint\Tetris.dll
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.pdb
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\Tetris.genruntimeconfig.cache
+C:\VS\Slutprojekt\Tetris\obj\Debug\net8.0-windows\ref\Tetris.dll
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Content\03. A-Type Music (Korobeiniki).wma
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Content\03. A-Type Music (Korobeiniki).xnb
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Content\Game over screen.xnb
+C:\VS\Slutprojekt\Tetris\bin\Debug\net8.0-windows\Content\Tetris grid-Photoroom.xnb

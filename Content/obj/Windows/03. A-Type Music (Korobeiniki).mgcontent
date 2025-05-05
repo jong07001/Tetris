@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/VS/Slutprojekt/Tetris/Content/03. A-Type Music (Korobeiniki).mp3</SourceFile>
+  <SourceTime>2025-04-28T09:26:26.464853+02:00</SourceTime>
+  <DestFile>C:/VS/Slutprojekt/Tetris/Content/bin/Windows/03. A-Type Music (Korobeiniki).xnb</DestFile>
+  <DestTime>2025-05-04T23:06:10.7356777+02:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T17:35:54+01:00</ImporterTime>
+  <Processor>SongProcessor</Processor>
+  <ProcessorTime>2018-12-08T17:35:54+01:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput>
+    <string>C:/VS/Slutprojekt/Tetris/Content/bin/Windows/03. A-Type Music (Korobeiniki).wma</string>
+  </BuildOutput>
+</PipelineBuildEvent>

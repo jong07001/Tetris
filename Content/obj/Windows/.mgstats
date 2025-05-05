@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/VS/Slutprojekt/Tetris/Content/03. A-Type Music (Korobeiniki).mp3","C:/VS/Slutprojekt/Tetris/Content/bin/Windows/03. A-Type Music (Korobeiniki).xnb","SongProcessor","SongContent",4701255,148,5.987577
+"C:/VS/Slutprojekt/Tetris/Content/Game over screen.spritefont","C:/VS/Slutprojekt/Tetris/Content/bin/Windows/Game over screen.xnb","FontDescriptionProcessor","SpriteFontContent",2018,267281,0.4533711
+"C:/VS/Slutprojekt/Tetris/Content/Tetris grid-Photoroom.png","C:/VS/Slutprojekt/Tetris/Content/bin/Windows/Tetris grid-Photoroom.xnb","TextureProcessor","Texture2DContent",103863,460885,0.4601173

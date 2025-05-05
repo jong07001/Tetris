@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "D:\\VS code programs\\Tetris\\Tetris.csproj": {}
+    "C:\\VS\\Slutprojekt\\Tetris\\Tetris.csproj": {}
   },
   "projects": {
-    "D:\\VS code programs\\Tetris\\Tetris.csproj": {
+    "C:\\VS\\Slutprojekt\\Tetris\\Tetris.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\VS code programs\\Tetris\\Tetris.csproj",
+        "projectUniqueName": "C:\\VS\\Slutprojekt\\Tetris\\Tetris.csproj",
         "projectName": "Tetris",
-        "projectPath": "D:\\VS code programs\\Tetris\\Tetris.csproj",
-        "packagesPath": "C:\\Users\\mimsa\\.nuget\\packages\\",
-        "outputPath": "D:\\VS code programs\\Tetris\\obj\\",
+        "projectPath": "C:\\VS\\Slutprojekt\\Tetris\\Tetris.csproj",
+        "packagesPath": "C:\\Users\\jong07001\\.nuget\\packages\\",
+        "outputPath": "C:\\VS\\Slutprojekt\\Tetris\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\mimsa\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\jong07001\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0-windows"
@@ -71,7 +71,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
