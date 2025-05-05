@@ -107,6 +107,7 @@ public class Game1 : Game
         
 
         dropTimer += gameTime.ElapsedGameTime.TotalSeconds;
+
         if(dropTimer >= dropInterval){
             currentBlock.Move(0,1);
         
@@ -158,7 +159,7 @@ public class Game1 : Game
         spriteBatch.Begin();
         grid.Draw(spriteBatch, blockTexture, blockSize);
        
-        if(gameover){
+        if(gameover){//implementerade inte textritandet här helt själv
             string go = "GAME OVER";
             Vector2 size = gofont.MeasureString(go);
             var mitten = new Vector2((GraphicsDevice.PresentationParameters.BackBufferWidth - size.X)/2, (GraphicsDevice.PresentationParameters.BackBufferHeight - size.Y)/2);
