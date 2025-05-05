@@ -72,6 +72,10 @@ public class Game1 : Game
 
         KeyboardState state2 = Keyboard.GetState();
         
+        if(state2.IsKeyUp(Keys.Space) && state1.IsKeyDown(Keys.Space)){
+            dropInterval -= 0.05;
+        }
+        
         if(state2.IsKeyUp(Keys.Left) && state1.IsKeyDown(Keys.Left)){
             currentBlock.Move(-1,0);
             if(IsCollision(grid)){
